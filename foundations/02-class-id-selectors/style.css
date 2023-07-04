@@ -1,0 +1,18 @@
+.p-tag{
+  background-color: pink;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.bigger-font {
+  font-size: 24px;
+}
+
+#one-id{
+  color: blue;
+  font-size: 36px;
+}
+
+#two-id {
+  background-color: lightgreen;
+  font-weight: bold;
+}
